@@ -12,4 +12,4 @@ banner_image: ''
 
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
-This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time. This is inline: \\$$ \\alpha $$ And this is stand alone: $$\\mu$$
+This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time. This is inline: \\$$ 5 + 5 $$ And this is stand alone: $$ 5 + 5$$
